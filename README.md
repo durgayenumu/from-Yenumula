@@ -23,3 +23,12 @@ Cricket was born in **England** out of a stick and ball game. It is a team of 12
 |Our Place|Biryani|Vijayawada|
 |Krishna's Kitchen |Traditional Methods|Hyderabad|
 |Viceroy|Chicken|Guntur|
+---
+# Favourite Quotes
+> "Why don’t skeletons fight each other? They don’t have the guts."
+> "What do you call cheese that isn't yours? Nacho cheese!"
+_-Dave Chappelle_
+
+
+
+
