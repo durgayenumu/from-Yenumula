@@ -34,6 +34,7 @@ _-Dave Chappelle_
 # Code Fencing
 
 Added python code 
+
 [link to code](https://code.pieces.app/collections/python)
 
 ```def flatten_list(nested_list):
