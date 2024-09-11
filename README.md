@@ -15,3 +15,11 @@ Cricket was born in **England** out of a stick and ball game. It is a team of 12
 * Park
 
 [MyDish](./MyDish.md)
+
+---
+# Tables
+|Name of the restaurant|Reason|Location|
+|------------------------|-------|----------|
+|Our Place|Biryani|Vijayawada|
+|Krishna's Kitchen |Traditional Methods|Hyderabad|
+|Viceroy|Chicken|Guntur|
